@@ -64,6 +64,7 @@
 ## Security
 
 * [Helmet, help secure Express/Connect apps with various HTTP headers](https://www.npmjs.com/package/helmet).
+* [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices).
 * [Node Security Project](https://nodesecurity.io/).
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
 
@@ -101,6 +102,7 @@
 * [jq](https://github.com/stedolan/jq) – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
 * [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
+* [TestMace](https://testmace.com) – A modern powerful crossplatform tool for working with API and creating automated API tests.
 
 ### Mocking
 
@@ -110,6 +112,7 @@
 * [json-server](https://github.com/typicode/json-server) – Get a full fake REST API with zero coding in less than 30 seconds.
 * [Mocky.io](http://www.mocky.io/) – Free online service to create fake HTTP responses.
 * [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) – Mock RESTful API based on swagger schema
+* [FakeQL](https://fakeql.com/) – Mainly focused on GraphQL, but can mock RESTful APIs, as well.
 
 ### Response
 
@@ -166,6 +169,8 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
+* [FastAPI](https://github.com/tiangolo/fastapi).
+* [rest-hapi](https://resthapi.com).
 
 ## Gateways
 
